@@ -1,0 +1,17 @@
+.theme-dark{
+    --background-mentioned: #000000;
+    --background-message-automod: #000000;
+    --background-message-hover: #ffffff0f;
+    --background-mobile-primary: #000000;
+    --background-mobile-secondary: #000000;
+    --background-modifier-accent: #000000;
+    --background-modifier-accent-2: #000000;
+    --background-modifier-active: #000000;
+    --background-modifier-selected: #000000;
+    --background-nested-floating: #000000;
+    --background-primary: #000000;
+    --background-secondary: #000000;
+    --background-secondary-alt: #000000;
+    --background-tertiary: #000000;
+    --channeltextarea-background: #000000;
+}
