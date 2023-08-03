@@ -15,3 +15,13 @@
     --background-tertiary: #000000;
     --channeltextarea-background: #000000;
 }
+// trying to get embeds and code to have a background
+.markup-eYLPri code{
+    background-color: var(--background-floating)
+}
+.embedWrapper-1MtIDg{
+    background-color: var(--background-floating);
+}
+.wrapper-1HIH0j{
+    background-color: var(--background-floating);
+}
